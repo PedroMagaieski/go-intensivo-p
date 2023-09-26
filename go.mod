@@ -1,4 +1,4 @@
-module github.com/PedroMagaieski/go-intensivo-p
+module github.com/devfullcycle/go-intensivo-p
 
 go 1.21.1
 
